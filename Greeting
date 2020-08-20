@@ -1,0 +1,11 @@
+Input:
+# Read a string:
+
+a = input(print("Enter your name"))
+# Print a string:
+print("Hello,"+a+"!")
+
+Output:
+Enter your name
+None Chris
+Hello,Chris!
